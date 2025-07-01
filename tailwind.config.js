@@ -19,6 +19,16 @@ module.exports = {
         'custom-4xl': "75px",
         'custom-5xl': "80px",
       },
+      container: {
+        center: true,
+        padding: {
+          DEFAULT: "1rem",
+          lg: "1.5rem",
+        },
+        screens: {
+          lg: "1164px",
+        },
+      },
       colors: {
         'medium-blue': "#0010C2",
         'yellow-orange': "#FF9B0F",
