@@ -30,6 +30,8 @@ module.exports = {
       boxShadow:{
         'skill-cards': "0px 5px 3.4px 0px #EAE3E3",
         'team-meeting': "0px 4px 4px 0px #00000040",
+        'button-default': '9px 0px 0px 8px #0010C2',
+        'button-hover':'9px 0px 0px 8px #FF9B0F'
       }
     },
   },
