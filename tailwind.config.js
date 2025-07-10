@@ -9,6 +9,7 @@ module.exports = {
         'poppins': "'Poppins',sans-serif",
         'bakbak': "'Bakbak One',sans-serif",
         'young': "'Young Serif',sans-serif",
+        'roboto':'"Roboto", sans-serif'
       },
       fontSize: {
         'custom-md': "32px",
@@ -35,7 +36,8 @@ module.exports = {
         'palatinate-blue': "#3243FF",
         'ghost-white': "#F9F9F9",
         "cultured": "#F8F6F6",
-        "lotion": "#FAFAFA"
+        "lotion": "#FAFAFA",
+    
       },
       boxShadow:{
         'skill-cards': "0px 5px 3.4px 0px #EAE3E3",

@@ -1,5 +1,4 @@
 import './App.css';
-import Button from './components/common/Button';
 import BePartOf from './components/homepage/BePartOf';
 import DevelopmentServices from './components/homepage/DevelopmentServices';
 
