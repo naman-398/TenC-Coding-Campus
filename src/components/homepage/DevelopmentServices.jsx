@@ -5,7 +5,7 @@ const DevelopmentServices = () => {
       <div className='mt-[238px]'>
           <div className='container'>
               <div>
-                  <h2 className='font-'>Market-Ready
+                  <h2 className=''>Market-Ready
                       Product <span>Development Services</span></h2>
               </div>
               
