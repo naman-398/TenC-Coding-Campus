@@ -7,7 +7,7 @@ function Aboutus() {
     <>
         <div className="container">
             <div className="flex flex-col lg:flex-row w-full lg:pt-[100px] lg:pb-[180px] relative">
-              <div className="absolute top-10 right-70 -z-10"><Backbottle/></div>
+              <div className="absolute top-10 right-70 -z-10"><Backbottle/></div>/
                     <div className="w-full lg:w-6/12 ">
                     <div className="relative  max-w-[323px]">
                         <img src={aboutus} alt="About Us"  className="w-full h-auto  " />
